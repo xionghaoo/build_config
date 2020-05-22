@@ -1,8 +1,8 @@
 name: buildconfig
 description: 原生构建配置
 version: 0.0.1
-author:
-homepage:
+author: xionghao
+homepage: https://github.com/xionghaoo/build_config
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
