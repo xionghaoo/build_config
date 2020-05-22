@@ -1,0 +1,22 @@
+PODS:
+  - buildconfig (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - buildconfig (from `.symlinks/plugins/buildconfig/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  buildconfig:
+    :path: ".symlinks/plugins/buildconfig/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  buildconfig: 03b19a37081b47f1ba09557889a8613b1916c890
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: c34e2287a9ccaa606aeceab922830efb9a6ff69a
+
+COCOAPODS: 1.9.0
