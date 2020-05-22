@@ -1,14 +1,16 @@
 # buildconfig
+> 原生构建配置
 
-原生构建配置
+安装方式:
+```
+dependencies:
+  buildconfig:
+    git:
+      url: git://github.com/xionghaoo/build_config.git
+```
 
-## Getting Started
+## versionName
+> 构建版本名称
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## versionCode
+> 构建变量
