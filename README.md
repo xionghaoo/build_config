@@ -1,4 +1,4 @@
-# buildconfig
+# BuildConfig
 > 原生构建配置
 
 安装方式:
